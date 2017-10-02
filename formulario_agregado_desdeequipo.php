@@ -8,7 +8,7 @@
  * 
  * 
  *  */
-   echo "agregado desde el equipo";
+   echo "otros cambios agregado desde el equipo";
 
 ?>
 
